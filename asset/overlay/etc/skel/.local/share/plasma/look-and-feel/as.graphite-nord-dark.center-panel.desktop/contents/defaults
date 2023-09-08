@@ -27,5 +27,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Graphite-dark-round
 
 [KSplash]
-Engine=KSplashQML
-Theme=com.github.vinceliuice.Graphite-dark
+Theme=Graphite-nord-dark
