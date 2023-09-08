@@ -39,7 +39,7 @@ Keywords[uk]=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shut
 Keywords[x-test]=xxDesktopxx;xxWorkspacexx;xxAppearancexx;xxLook and Feelxx;xxLogoutxx;xxLockxx;xxSuspendxx;xxShutdownxx;xxHibernatexx;
 Keywords[zh_CN]=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;桌面;工作空间;外观;观感;注销;锁定;待机;关机;休眠;
 Keywords[zh_TW]=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;桌面;工作空間;外觀;
-Name=Gruvbox-CenterPanel
+Name=As-Graphite-Dark
 Name[x-test]=xxBasicxx
 Type=Service
 
@@ -51,7 +51,7 @@ X-KDE-PluginInfo-Author=Home Developer
 X-KDE-PluginInfo-Email=home-developer@home.org
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-License=MIT
-X-KDE-PluginInfo-Name=Gruvbox-CenterPanel.desktop
+X-KDE-PluginInfo-Name=as.graphite-dark.center-panel.desktop
 X-KDE-PluginInfo-Version=2.0
 X-KDE-PluginInfo-Website=https://github.com/samwhelp/note-about-kde/
 X-Plasma-MainScript=defaults

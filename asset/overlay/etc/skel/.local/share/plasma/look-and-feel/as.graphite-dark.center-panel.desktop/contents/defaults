@@ -2,13 +2,13 @@
 widgetStyle=Breeze
 
 [kdeglobals][General]
-ColorScheme=Gruvbox
+ColorScheme=GraphiteDark
 
 [kdeglobals][Icons]
-Theme=Gruvbox
+Theme=Tela-circle-dark
 
 [plasmarc][Theme]
-name=Gruvbox
+name=Graphite-dark
 
 [Wallpaper]
 Image=Next
@@ -17,15 +17,15 @@ Image=Next
 cursorTheme=breeze_cursors
 
 [kwinrc][WindowSwitcher]
-LayoutName=MediumRounded
+LayoutName=org.kde.breeze.desktop
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Gruvbox
+theme=__aurorae__svg__Graphite-dark-round
 
 [KSplash]
 Engine=KSplashQML
-Theme=Gruvbox
+Theme=Graphite-dark

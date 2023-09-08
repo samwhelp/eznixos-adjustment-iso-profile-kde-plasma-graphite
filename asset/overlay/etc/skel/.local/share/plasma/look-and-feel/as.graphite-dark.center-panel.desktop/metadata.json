@@ -11,15 +11,15 @@
             }
         ],
         "Category": "",
-        "Description": "Gruvbox CenterPanel KDE Desktop",
-        "Id": "basic.gruvbox-center-panel.desktop",
+        "Description": "Graphite-Dark / CenterPanel / KDE Desktop",
+        "Id": "as.graphite-dark.center-panel.desktop",
         "License": "MIT",
-        "Name": "Gruvbox-CenterPanel",
+        "Name": "As-Graphite-Dark",
         "ServiceTypes": [
             "Plasma/LookAndFeel"
         ],
         "Version": "2.0",
-        "Website": "https://github.com/samwhelp/note-about-kde/"
+        "Website": "https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-graphite"
     },
     "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
     "Keywords[ca@valencia]": "Escriptori;Espai de treball;Aparença;Aparença i comportament;Eixida;Bloqueig;Suspensió;Aturada;Hibernació;",
