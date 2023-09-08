@@ -2,13 +2,13 @@
 widgetStyle=Breeze
 
 [kdeglobals][General]
-ColorScheme=GraphiteDark
+ColorScheme=GraphiteNordDark
 
 [kdeglobals][Icons]
 Theme=Tela-circle-dark
 
 [plasmarc][Theme]
-name=Graphite-dark
+name=Graphite-nord-dark
 
 [Wallpaper]
 Image=Next

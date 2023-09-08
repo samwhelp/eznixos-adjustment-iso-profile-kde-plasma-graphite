@@ -28,4 +28,4 @@ theme=__aurorae__svg__Graphite-light-round
 
 [KSplash]
 Engine=KSplashQML
-Theme=Graphite-light
+Theme=com.github.vinceliuice.Graphite-light
