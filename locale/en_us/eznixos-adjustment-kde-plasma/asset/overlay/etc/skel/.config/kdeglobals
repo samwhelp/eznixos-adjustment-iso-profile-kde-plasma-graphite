@@ -18,10 +18,4 @@ ShowDeleteCommand=true
 SingleClick=false
 
 [WM]
-activeBackground=49,54,59
-activeBlend=252,252,252
 activeFont=Sans Serif,10,-1,5,50,0,0,0,0,0
-activeForeground=252,252,252
-inactiveBackground=42,46,50
-inactiveBlend=161,169,177
-inactiveForeground=161,169,177

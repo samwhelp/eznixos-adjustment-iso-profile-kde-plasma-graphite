@@ -40,10 +40,6 @@ MoveFactor=25
 Stiffness=1
 WobblynessLevel=4
 
-[org.kde.kdecoration2]
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Graphite-dark-round
-
 [ModifierOnlyShortcuts]
 Meta=
 

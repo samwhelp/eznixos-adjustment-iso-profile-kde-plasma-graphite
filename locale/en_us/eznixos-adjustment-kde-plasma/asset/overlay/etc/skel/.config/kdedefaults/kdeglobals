@@ -1,8 +1,8 @@
 [General]
-ColorScheme=BreezeDark
+ColorScheme=GraphiteDark
 
 [Icons]
-Theme=breeze-dark
+Theme=Remix-Red-Dot-Black-Papirus-Dark
 
 [KDE]
 LookAndFeelPackage=org.kde.breezedark.desktop
