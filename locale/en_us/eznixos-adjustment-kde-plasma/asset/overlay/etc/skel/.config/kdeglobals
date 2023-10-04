@@ -16,7 +16,6 @@ Theme=Remix-Red-Dot-Black-Papirus-Dark
 LookAndFeelPackage=as.graphite-dark.center-panel.desktop
 ShowDeleteCommand=true
 SingleClick=false
-widgetStyle=kvantum
 
 [WM]
 activeFont=Sans Serif,10,-1,5,50,0,0,0,0,0
