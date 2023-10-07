@@ -1,6 +1,6 @@
 
 
-# Graphite gtk theme
+# gtk-theme / Graphite gtk theme
 
 
 ## Link
