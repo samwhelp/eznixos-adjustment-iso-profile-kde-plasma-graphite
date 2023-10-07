@@ -1,6 +1,6 @@
 
 
-# Breeze-Chameleon-Light-Icons
+# icon-theme / Breeze-Chameleon-Light-Icons
 
 
 ## Link
